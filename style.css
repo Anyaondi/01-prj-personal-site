@@ -1,1 +1,17 @@
 /* Add you CSS here */
+.spotify-btn {
+  display: inline-block;
+  padding: 12px 20px;
+  background-color: #990000;
+  color: #ffcccc;
+  border-radius: 8px;
+  text-decoration: none;
+  font-weight: bold;
+  transition: 0.3s;
+}
+
+.spotify-btn:hover {
+  background-color: #ff1a1a;
+  color: #ffffff;
+  box-shadow: 0 0 10px #ff1a1a;
+}
